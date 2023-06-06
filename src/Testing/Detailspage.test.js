@@ -3,7 +3,7 @@ import renderer from 'react-test-renderer';
 import { Provider } from 'react-redux';
 import '@testing-library/jest-dom';
 import store from '../redux/store';
-import Detailspage from '../Components/Homepage/Detailspage';
+import Detailspage from '../Components/Detailspage';
 
 it('Check any changes to the component', () => {
   const tree = renderer.create(
