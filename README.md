@@ -72,9 +72,9 @@ git clone https://github.com/Ashnaali3255/Stock-Metrics-WebApp.git
 
 ### Prerequisites
 
--NodeJS
--React & Redux
--Browser
+- NodeJS
+- React & Redux
+- Browser
 
 In order to run this project you need:
 
@@ -83,8 +83,6 @@ In order to run this project you need:
 Clone this repository to your dist folder:
 
 git clone: https://github.com/Ashnaali3255/Stock-Metrics-WebApp.git
-
-cd Bookstore
 
 ### Install
 
@@ -135,6 +133,7 @@ I would like to thank Microverse.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]() licensed.
+This project is [MIT](./LICENSE.md) licensed.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
