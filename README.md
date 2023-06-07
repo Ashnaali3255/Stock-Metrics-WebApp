@@ -82,7 +82,7 @@ In order to run this project you need:
 
 Clone this repository to your dist folder:
 
-git clone: https://github.com/Ashnaali3255/Stock-Metrics-WebApp.git
+git clone https://github.com/Ashnaali3255/Stock-Metrics-WebApp.git
 
 ### Install
 
@@ -94,13 +94,24 @@ Use this project in the browsers of desktops and mobile devices
 
 ### Run tests
 
-npm run test
+npm run test 
+&&
+For Linters run this commands:
+
+1. For styles: npx stylelint "**/*.{css,scss}"
+ 2. For Javascript: npx eslint .
 
 ### Deployment
 
-You can deploy this project on GitHub Pages
+You can deploy this project on GitHub Pages, Render & Netlify.
 
 ## 👥 Authors <a name="authors"></a>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](Coming Soon:))
 
 👤 **Ashna Ali**
 
@@ -111,7 +122,7 @@ You can deploy this project on GitHub Pages
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-Add more dynamic features of sending data to user's email
+Add more dynamic features of sending data to user's email.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,7 +138,7 @@ If you like this project, please let me know and we can improve it further. You 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse.
+I would like to thank Microverse. I'm really appreciate to Nelson Sakwa the author of the original design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
