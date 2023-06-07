@@ -64,46 +64,60 @@ Companies is a React and Redux SPA application that displays interesting informa
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-Clone this repository to your desired folder:
+Describe how a new developer could make use of your project.
 
-```
-git clone https://github.com/Ashnaali3255/Stock-Metrics-WebApp.git
-```
+To get a local copy up and running, follow these steps.
 
-### Prerequisites
+In order to run this project you need:
 
+1. Prerequisites
+In order to run this project you need:
+
+- Visual Studio
+- Github
 - NodeJS
 - React & Redux
 - Browser
 
-In order to run this project you need:
-
-### Setup
-
-Clone this repository to your dist folder:
+2. Setup
+Clone this repository to your desired folder:
 
 git clone https://github.com/Ashnaali3255/Stock-Metrics-WebApp.git
 
-### Install
+3. Install:
 
-npm install
+To install you should use this command:
+- npm install
 
-### Usage
+4. Run tests
+ 
+ To run tests, run the following command:
 
-Use this project in the browsers of desktops and mobile devices
-
-### Run tests
-
-npm run test 
-&&
-For Linters run this commands:
-
-1. For styles: npx stylelint "**/*.{css,scss}"
+ 1. For styles: npx stylelint "**/*.{css,scss}"
  2. For Javascript: npx eslint .
 
-### Deployment
+ To fix it. run the following command:
 
-You can deploy this project on GitHub Pages, Render & Netlify.
+ 1. For styles: npx stylelint "**/*.{css,scss}" --fix
+ 2. For Javascript: npx eslint . --fix
+
+ For REACT & Redux:
+ 
+ Run this command for JS:
+
+ 1. npx eslint "**/*.{js,jsx}"
+
+ To fix use this command:
+
+ 1. npx eslint "**/*.{js,jsx}" --fix
+
+
+6. Deployment
+ 
+ You can deploy this project using:
+ "Github Pages"
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
