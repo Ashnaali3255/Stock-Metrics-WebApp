@@ -16,6 +16,6 @@ test('renders without error', () => {
   render(
     <Provider store={store}>
       <App />
-    </Provider>
+    </Provider>,
   );
 });
