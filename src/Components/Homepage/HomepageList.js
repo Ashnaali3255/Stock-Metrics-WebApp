@@ -41,6 +41,7 @@ const HomepageList = () => {
             <div
               key={company.symbol}
               onClick={() => navigate(`/details/${company.symbol}`)}
+              className="company-card"
               aria-hidden="true"
             >
               <HomepageItem title={company.symbol} />

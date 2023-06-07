@@ -16,13 +16,13 @@ const Detailspage = () => {
     <div className="parent" data-testid="detailspage">
       <div className="items">
         <img className="image" src={companyDetails.image} alt="company" />
-        <p>
+        <p className="symbol">
           (
           {companyDetails.symbol}
           )
         </p>
-        <h1>{companyDetails.companyName}</h1>
-        <table className="table">
+        <h1 className="company-name">{companyDetails.companyName}</h1>
+        <table className="details-table">
           <tbody>
             <tr>
               <th scope="col">CEO</th>
