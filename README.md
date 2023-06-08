@@ -119,13 +119,20 @@ To install you should use this command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Authors <a name="authors"></a>
-
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://companies-metrics-webapp.onrender.com)
+
+<!-- LIVE VIDEO -->
+
+## 🚀 Live Video <a name="live-demo"></a>
+
+- [Live Video Link](https://clipchamp.com/watch/cifS9gSEXsb)
+
+
+## 👥 Authors <a name="authors"></a>
 
 👤 **Ashna Ali**
 
