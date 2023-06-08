@@ -8,6 +8,11 @@ exports[`Check any changes to the component 1`] = `
   <div
     className="item"
   >
+    <span
+      className="arrow"
+    >
+      ➜
+    </span>
     <img
       alt="company"
       className="icon"

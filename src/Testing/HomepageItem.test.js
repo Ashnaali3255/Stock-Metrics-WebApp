@@ -5,23 +5,21 @@ import '@testing-library/jest-dom';
 import store from '../redux/store';
 import HomepageItem from '../Components/Homepage/HomepageItem';
 
-it('Check any changes to the component', () => {
+test('Check any changes to the component', () => {
   const tree = renderer.create(
     <Provider store={store}>
       <HomepageItem />
-    </Provider>,
+    </Provider>
   ).toJSON();
   expect(tree).toMatchSnapshot();
 });
 
 it('the component should render a div container', () => {
-  render(
+  const { getByTestId } = render(
     <Provider store={store}>
-      <HomepageItem title="title" />
-    </Provider>,
+      <HomepageItem />
+    </Provider>
   );
-
-  const page = screen.getByTestId('homepageitem');
-
-  expect(page).toBeInTheDocument();
+  const container = getByTestId('homepageitem');
+  expect(container).toBeInTheDocument();
 });

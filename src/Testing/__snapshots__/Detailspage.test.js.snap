@@ -12,13 +12,17 @@ exports[`Check any changes to the component 1`] = `
       alt="company"
       className="image"
     />
-    <p>
+    <p
+      className="symbol"
+    >
       (
       )
     </p>
-    <h1 />
+    <h1
+      className="company-name"
+    />
     <table
-      className="table"
+      className="details-table"
     >
       <tbody>
         <tr>
