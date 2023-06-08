@@ -125,7 +125,7 @@ To install you should use this command:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](Coming Soon:))
+- [Live Demo Link](https://companies-metrics-webapp.onrender.com)
 
 👤 **Ashna Ali**
 
